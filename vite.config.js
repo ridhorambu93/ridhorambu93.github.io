@@ -5,5 +5,6 @@ import tailwindcss from "@tailwindcss/vite"
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/ridhorambu93-portfolio",
+  // base: "/ridhorambu93-portfolio",
+  base: "https://ridhorambu93.github.io/ridhorambu93-portfolio/",
 })
